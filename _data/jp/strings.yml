@@ -1,0 +1,159 @@
+archive:
+  prefix: のアーカイブ
+  category_suffix: のカテゴリー
+  tag_suffix: のタグ
+  year_suffix: の年
+bibliography:
+  abstract: 要約
+  awarded: 受賞
+  blog: ブログ
+  book_prefix: において
+  code: コード
+  last_author_prefix: and
+  poster: ポスター
+  slides: スライド
+  supp: 補足資料
+  video: ビデオ
+  website: ウェブサイト
+blog:
+  navigation_title: ブログ
+categories:
+  fun: 趣味
+  work: 仕事
+citation:
+  bibtex: "または BibTeX エントリとして:"
+  introduction: "この研究が参考になった場合は、以下のように引用してください:"
+collections:
+  books: 書籍
+  posts: 投稿
+contact_note: 連絡方法について、一言コメントを追加することもできます。
+cv:
+  address: 住所
+  area: 地域
+  awarder: 授与者
+  awards: 受賞歴
+  basics: 基本情報
+  certificates: 証明書
+  city: 市区町村
+  countryCode: 国コード
+  courses: コース
+  date: 日付
+  education: 学歴
+  email: メール
+  endDate: 終了日
+  fluency: 流暢度
+  highlights: ハイライト
+  image: 画像
+  institution: 機関
+  interests: 興味・関心
+  issuer: 発行者
+  keywords: キーワード
+  label: ラベル
+  language: 言語
+  languages: 言語
+  level: レベル
+  location: 場所
+  name: 名前
+  network: ネットワーク
+  organization: 組織
+  phone: 電話
+  position: 役職
+  postalCode: 郵便番号
+  present: 現在
+  profiles: プロフィール
+  projects: プロジェクト
+  publications: 出版物
+  publisher: 出版者
+  reference: 参考文献
+  references: 参考文献
+  region: 地域
+  releaseDate: 公開日
+  score: スコア
+  skills: スキル
+  startDate: 開始日
+  studyType: 学習タイプ
+  summary: 概要
+  table_of_contents: 目次
+  title: タイトル
+  url: URL
+  username: ユーザー名
+  volunteer: ボランティア
+  work: 仕事
+footer:
+  copyright: 著作権
+  last_updated: "最終更新:"
+latest_posts: 最新の投稿
+months:
+  long:
+    january: January
+    february: February
+    march: March
+    april: April
+    may: May
+    june: June
+    july: July
+    august: August
+    september: September
+    october: October
+    november: November
+    december: December
+  short:
+    january: Jan
+    february: Feb
+    march: Mar
+    april: Apr
+    may: May
+    june: Jun
+    july: Jul
+    august: Aug
+    september: Sep
+    october: Oct
+    november: Nov
+    december: Dec
+news: ニュース
+newsletter:
+  back: 戻る
+  error: "エラーが発生しました。もう一度お試しください。"
+  subscribe: 登録
+  subscribed: "ニュースレターへの登録が完了しました。"
+  subscribe_to_receive: "今後の記事の通知を受け取るには登録してください:"
+  too_many_signups: "登録数が多すぎます。しばらくしてから再試行してください。"
+  wait: "お待ちください..."
+no_news: まだニュースはありません...
+no_posts: "まだ投稿はありません..."
+pagination:
+  page: ページ
+post:
+  created_in: 作成日
+  created_by: 作成者
+  last_updated: 最終更新日
+references: 参考文献
+related_posts:
+  description: "こちらの記事もおすすめです:"
+  title: この記事を楽しめましたか？
+search:
+  dark_theme:
+    description: サイトのテーマをダークモードに変更
+    title: テーマをダークに変更
+  dropdown: ドロップダウン
+  email: メールを送信
+  footer:
+    close: 閉じる
+    navigate: ナビゲート
+    parent: 親フォルダへ移動
+    select: 選択
+  languages: 言語
+  light_theme:
+    description: サイトのテーマをライトモードに変更
+    title: テーマをライトに変更
+  navigation: ナビゲーションメニュー
+  news: ニュース
+  placeholder: 検索を開始するには入力してください
+  posts: 投稿
+  projects: プロジェクト
+  socials: ソーシャル
+  system_theme:
+    description: サイトのテーマをシステム既定に変更
+    title: システムのデフォルトテーマを使用
+  theme: テーマ
+selected_publications: 一部の論文
