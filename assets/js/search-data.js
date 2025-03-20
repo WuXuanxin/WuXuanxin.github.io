@@ -393,12 +393,7 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "",handler: () => {
-              window.location.href = "/books/en-us/the_godfather/";
-            },},{id: "news-best-presentation-award-at-the-165th-meeting-of-the-linguistic-society-of-japan",
+    },{id: "news-best-presentation-award-at-the-165th-meeting-of-the-linguistic-society-of-japan",
           title: 'Best Presentation Award at the 165th Meeting of the Linguistic Society of Japan....',
           description: "",
           section: "News",},{id: "news-i-received-my-master-s-degree-and-was-honored-to-be-selected-as-the-representative-student-for-my-faculty-at-the-graduation-ceremony",
@@ -488,18 +483,11 @@ ninja.data = [{
           window.open("https://www.alberteinstein.com/", "_blank");
         },
       },{
-          id: 'lang-pt-br',
-          title: 'pt-br',
+          id: 'lang-jp',
+          title: 'jp',
           section: 'Languages',
           handler: () => {
-            window.location.href = "/pt-br" + updatedUrl;
-          },
-        },{
-          id: 'lang-fr-ca',
-          title: 'fr-ca',
-          section: 'Languages',
-          handler: () => {
-            window.location.href = "/fr-ca" + updatedUrl;
+            window.location.href = "/jp" + updatedUrl;
           },
         },{
       id: 'light-theme',
