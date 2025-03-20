@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-12-12
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Best Presentation Award at the 165th Meeting of the Linguistic Society of Japan.

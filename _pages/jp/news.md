@@ -1,7 +1,6 @@
 ---
-page_id: news
 layout: page
-title: novidades
+title: news
 permalink: /news/
 ---
 
