@@ -1,101 +1,49 @@
-- title: Informações Gerais
+- title: 基本情報
   type: map
   contents:
-    - name: Nome Completo
-      value: Albert Einstein
-    - name: Data de Nascimento
-      value: 14 de março de 1879
-    - name: Idiomas
-      value: Inglês, Alemão
+    - name: 氏名
+      value: ゴ　センキン
+    - name: 言語
+      value: 日本語（上級）、英語（上級）、中国語（母語）、広東語（母語）、ポルトガル語（初級）
 
-- title: Educação
+- title: 学歴
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurique, Suíça
-      year: 1905
+    - title: 博士後期課程
+      institution: 大阪大学　情報科学研究科
+      year: 2023年 - 現在
       description:
-        - Descrição 1.
-        - Descrição 2.
-        - title: Descrição 3.
-          contents:
-            - Sub-descrição 1.
-            - Sub-descrição 2.
-    - title: Diploma de ensino federal
-      institution: Eidgenössische Technische Hochschule, Zurique, Suíça
-      year: 1900
+        - テキスト平易化における大規模言語モデルの評価
+        - MQMスタイルに基づくテキスト平易化の自動評価指標の開発
+    - title: 博士前期課程
+      institution: 大阪大学　言語文化研究科
+      year: 2023年
       description:
-        - Descrição 1.
-        - Descrição 2.
+        - 第二言語習得における音声習得
+        - 言語統計学
+    - title: 学士課程
+      institution: 東北財経大学　国際商務外国語学部（中国・大連市）
+      year: 2015年 - 2019年
 
-- title: Experiência
+- title: 職務経験
   type: time_table
   contents:
-    - title: Professor de Física Teórica
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: リサーチインターン
+      institution: NTTコミュニケーション科学基礎研究所
+      year: 2025年2月 - 2025年3月
       description:
-        - Descrição 1.
-        - Descrição 2.
-        - title: Descrição 3.
-          contents:
-            - Sub-descrição 1.
-            - Sub-descrição 2.
-    - title: Professor Visitante
-      institution: California Institute of Technology, Pasadena, Califórnia, EUA
-      year: 1933
-      description:
-        - Descrição 1.
-        - Descrição 2.
+        - 選好最適化による機械翻訳に関する研究
 
-    - title: Diretor
-      institution: Kaiser Wilhelm Institute for Physics, Berlim, Alemanha.
-      year: 1917-1933
-
-    - title: Professor de Física Teórica
-      institution: Karl-Ferdinand University, Praga, Tchecoslováquia
-      year: 1911 - 1917
-      description:
-
-    - title: Professor Associado de Física Teórica
-      institution: University of Zurich, Zurique, Suíça
-      year: 1909 - 1911
-
-- title: Projetos de Código Aberto
+- title: 奨学金・受賞歴
   type: time_table
   contents:
-    - title: <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>
-      year: 2023-atual
-      description: Uma variação do tema al-folio com suporte a múltiplos idiomas.
-
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-atual
-      description: Um tema Jekyll bonito, simples, limpo e responsivo para acadêmicos.
-
-- title: Honrarias e Prêmios
-  type: time_table
-  contents:
-    - year: 1921
+    - year: 2023年 - 現在
       items:
-        - Prêmio Nobel de Física
-        - Medalha Matteucci
-    - year: 2029
+        - 日本科学技術振興機構（JST）より博士課程フェローシップを授与
+    - year: 2022年
       items:
-        - Medalha Max Planck
+        - 日本言語学会第165回大会にて最優秀発表賞を受賞
+    - year: 2018年
+      items:
+        - 大連市第29回『キヤノン杯』日本語弁論大会にて準優秀賞を受賞
 
-- title: Interesses Acadêmicos
-  type: nested_list
-  contents:
-    - title: Tópico 1.
-      items:
-        - Descrição 1.
-        - Descrição 2.
-    - title: Tópico 2.
-      items:
-        - Descrição 1.
-        - Descrição 2.
-
-- title: Outros Interesses
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 博士後期課程 | <a href="#"自然言語処理></a> | <a href="#">言語教育</a>
+subtitle: 博士後期課程 | <a href="#">自然言語処理</a> | <a href="#">言語教育</a>
 
 profile:
   align: right
